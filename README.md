@@ -19,6 +19,7 @@ In order for your pr to be reviewed and accepted please make sure to:
 1. keep it reasonable in size. don't change a lot in one pr.
 2. write a good description explaining what you did in this pr.
 3. divide the pr into readable commits.
+4. All tests are passed (will add action in github soon)
 
 Those are best practices you should already follow anywhere you collaborate
 on writing code.
