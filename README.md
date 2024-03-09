@@ -10,20 +10,8 @@ we take care of both the backend and the frontend.
 
 We use Spring Boot 3.2.2 for the backend and Angular v17 for the Frontend
 
-# Participation in this project
-you can review this code and come up with suggestions for improvement, 
-report bugs or suggest design ideas. You have to submit a pr which I will
-review and accept in case it is good and aligns with the project. 
+# Project Design
+As you can see below the current types of rental properties are only the following: <br> 
 
-In order for your pr to be reviewed and accepted please make sure to:
-1. keep it reasonable in size. don't change a lot in one pr.
-2. write a good description explaining what you did in this pr.
-3. divide the pr into readable commits.
-4. All tests are passed (will add action in github soon)
+<img src='https://github.com/AhmadWehbe167/red-planet-rental/assets/69423138/a9059cd6-9fe6-49cc-abdb-f856e6a6a486' width='400'>
 
-Those are best practices you should already follow anywhere you collaborate
-on writing code.
-
-Also, please make sure to follow clean code principles and conventions I mention
-in my videos. I encourage you to participate as you will learn a a lot following
-along in this project.
